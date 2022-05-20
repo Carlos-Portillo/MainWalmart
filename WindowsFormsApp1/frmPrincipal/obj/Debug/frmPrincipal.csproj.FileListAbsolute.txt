@@ -1,0 +1,10 @@
+C:\Users\UCA\Desktop\Nueva carpeta\cp3-Carlos-Portillo\WindowsFormsApp1\frmPrincipal\bin\Debug\frmPrincipal.exe.config
+C:\Users\UCA\Desktop\Nueva carpeta\cp3-Carlos-Portillo\WindowsFormsApp1\frmPrincipal\bin\Debug\frmPrincipal.exe
+C:\Users\UCA\Desktop\Nueva carpeta\cp3-Carlos-Portillo\WindowsFormsApp1\frmPrincipal\bin\Debug\frmPrincipal.pdb
+C:\Users\UCA\Desktop\Nueva carpeta\cp3-Carlos-Portillo\WindowsFormsApp1\frmPrincipal\obj\Debug\frmPrincipal.csprojAssemblyReference.cache
+C:\Users\UCA\Desktop\Nueva carpeta\cp3-Carlos-Portillo\WindowsFormsApp1\frmPrincipal\obj\Debug\WindowsFormsApp1.FrmPrincipal.resources
+C:\Users\UCA\Desktop\Nueva carpeta\cp3-Carlos-Portillo\WindowsFormsApp1\frmPrincipal\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\UCA\Desktop\Nueva carpeta\cp3-Carlos-Portillo\WindowsFormsApp1\frmPrincipal\obj\Debug\frmPrincipal.csproj.GenerateResource.cache
+C:\Users\UCA\Desktop\Nueva carpeta\cp3-Carlos-Portillo\WindowsFormsApp1\frmPrincipal\obj\Debug\frmPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\UCA\Desktop\Nueva carpeta\cp3-Carlos-Portillo\WindowsFormsApp1\frmPrincipal\obj\Debug\frmPrincipal.exe
+C:\Users\UCA\Desktop\Nueva carpeta\cp3-Carlos-Portillo\WindowsFormsApp1\frmPrincipal\obj\Debug\frmPrincipal.pdb
